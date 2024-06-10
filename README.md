@@ -3,3 +3,4 @@ TechnoKey is a comprehensive shopping catalog program specifically designed to m
 
 The primary focus of TechnoKey is to provide a seamless and efficient platform for both consumers and administrators in the keyboard retail market. This includes user experience, admin functionality, and database utilization. It provides a smooth and secure checkout process for completing just like any other shopping carts. Individuals looking to purchase keyboards, especially mechanical keyboards, who require a user-friendly interface and a secure shopping experience make TechnoKey the best choice.
 
+![Uploading Screenshot 2024-06-09 225339.png…]()
