@@ -51,9 +51,8 @@ if(isset($_SESSION['user_id'])){
                 <input type="hidden" name="pid" value="<?= $fetch_product['id']; ?>">
                 <input type="hidden" name="name" value="<?= $fetch_product['name']; ?>">
                 <input type="hidden" name="price" value="<?= $fetch_product['price']; ?>">
-                <input type="hidden" name="image" value="<?= $fetch_product['image']; ?>">
-                <button class="fas fa-heart" type="submit" name="add_to_wishlist"></button>
-                <img src="uploaded_img/<?= $fetch_product['image']; ?>" alt="">
+                <input type="hidden" name="image" value="<?= $fetch_product['image_01']; ?>">
+                <img src="uploaded_img/<?= $fetch_product['image_01']; ?>" alt="">
                 <div class="name"><?= $fetch_product['name']; ?></div>
                 <div class="flex">
                     <div class="price"><span>$ </span><?= $fetch_product['price']; ?></div>
